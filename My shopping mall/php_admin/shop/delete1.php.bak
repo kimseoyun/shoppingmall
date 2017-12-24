@@ -1,0 +1,3 @@
+<?
+echo "$p_num $mode $category_code_fk $page $l_category_fk $ch $level";
+?>

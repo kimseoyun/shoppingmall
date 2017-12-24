@@ -1,0 +1,16 @@
+<?
+	include "../../php/auth.php";	
+	include "../../php/config.php";	
+	include "../../php/util.php";	
+	$connect = my_connect($host, $dbid, $dbpass, $dbname);
+
+$query = "select * from products_category1 where id = $id";
+$result = mysql_query($query, $connect);
+$rows = mysql_fetch_array($result);
+mysql_free_result($result);
+
+$code = $rows[code];
+
+
+
+?>

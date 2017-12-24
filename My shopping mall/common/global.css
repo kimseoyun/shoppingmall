@@ -1,0 +1,62 @@
+/*General CSS*/
+body, table, select{ font-family:µ¸¿ò;  font-size: 12px; color: #444444; line-height:150%; 
+
+        scrollbar-3dlight-color:616161;
+        scrollbar-arrow-color:FFFFFF;
+        scrollbar-base-color:CFCFCF;
+        scrollbar-face-color:CFCFCF;
+        scrollbar-highlight-color:FFFFFF;
+        scrollbar-shadow-color:595959;
+        scrollbar-darkshadow-color:FFFFFF;
+
+	}
+
+A:link { font-size: 12px; color:#222222;  text-decoration: none;}
+A:visited { font-size: 12px; color:#222222;   text-decoration: none}
+A:active { font-size: 12px; color:#222222;  text-decoration: none}
+A:hover {  font-size: 12px; color:#41880D;   text-decoration: none}
+
+A.upme:link { font-size: 12px; color:#555555;  text-decoration: none}
+A.upme:visited {  font-size: 12px; color:#555555;   text-decoration: none}
+A.upme:active {  font-size: 12px; color:#555555;  text-decoration: none}
+A.upme:hover {  font-size: 12px; color:#000F8C;   text-decoration: none}
+
+A.con:link {font-size: 12px; color:#444444;  text-decoration: none;}
+A.con:visited { font-size: 12px; color:#444444;   text-decoration: none}
+A.con:active { font-size: 12px; color:#444444;  text-decoration: none}
+A.con:hover {  font-size: 12px; color:#41880D;   text-decoration: none}
+
+A.po:link { font-family:µ¸¿ò; font-size: 11px; color:#666666;  text-decoration: none}
+A.po:visited { font-family:µ¸¿ò; font-size: 11px; color:#666666;   text-decoration: none}
+A.po:active { font-family:µ¸¿ò; font-size: 11px; color:#666666;  text-decoration: none}
+A.po:hover { font-family:µ¸¿ò; font-size: 11px; color:#41880D;   text-decoration:  none}
+
+A.site:link {font-family:verdana;  font-size: 11px; color: #0B3F95;   text-decoration: none}
+A.site:visited {font-family:verdana; font-size: 11px; color: #0B3F95;   text-decoration: none}
+A.site:active {font-family:verdana;  font-size: 11px; color: #0B3F95;  text-decoration: none}
+A.site:hover {font-family:verdana;  font-size: 11px; color: #41880D;   text-decoration: none}
+
+A.gray:link {font-family:±¼¸²;  font-size: 12px; color: #0B3F95;   text-decoration: none}
+A.gray:visited {font-family:±¼¸²; font-size: 12px; color: #0B3F95;   text-decoration: none}
+A.gray:active {font-family:±¼¸²;  font-size: 12px; color: #0B3F95;  text-decoration: none}
+A.gray:hover {font-family:±¼¸²;  font-size: 12px; color: #41880D;   text-decoration: none}
+
+/*±ÛÀÚ»öÅØ½ºÆ®*/
+
+.content{ font-family:µ¸¿ò;  font-size:12px; color:#555555; line-height:140%; word-spacing:-0.2em }
+.em{word-spacing:-0.2em; line-height:140% }
+.line1{ line-height:180% }
+
+.InputStyle {border-width: 1 1 1 1; border-color:#91D752; border-style: solid; background:#F0FAE6; font-size:12px}
+.box { border-width: 1 1 1 1; border-color:#DDDDDD; border-style: solid}
+
+
+/*È¸¿ø°¡ÀÔ*/
+	.line { border-width: 0 0 1 0; border-color:#e1e1e1; border-style: solid; font-size: 12px; padding:8 0 9 10}
+	.line-n{ border-width: 0 0 1 0; border-color:#e1e1e1; border-style: solid; font-size: 12px; padding:6 0 3 12; color: #213B88}
+	.searchline { border-width: 1 1 1 1; border-color:#DBDBDB; border-style: solid; BACKGROUND-COLOR:#F8F8F7}
+	.color-blue1{  color:#0000FF}
+	.text2 {  font-size: 12px; color:#8E5C06}
+	.text7 {  font-size: 12px; color:#5CAE00}
+	.InputStyle1 {font-family:µ¸¿ò; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid; border-right: #cccccc 1px solid; border-top: #cccccc 1px solid; font-size: 12px}
+    .input { font-size:9pt; color:black; border:1x solid black }
